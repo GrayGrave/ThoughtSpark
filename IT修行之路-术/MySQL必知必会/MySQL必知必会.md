@@ -943,7 +943,7 @@ CLOSE ordernumbers;
 
 <img src="pic/image-20221003011836890.png" alt="image-20221003011836890" style="zoom:33%;" />
 
-
+ 
 
 ## 第25章 使用触发器
 
